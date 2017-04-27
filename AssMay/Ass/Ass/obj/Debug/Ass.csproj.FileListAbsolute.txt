@@ -1,0 +1,42 @@
+F:\Code\Ass\Ass\bin\Debug\Ass.exe.config
+F:\Code\Ass\Ass\bin\Debug\Ass.exe
+F:\Code\Ass\Ass\bin\Debug\Ass.pdb
+F:\Code\Ass\Ass\obj\Debug\Ass.csprojResolveAssemblyReference.cache
+F:\Code\Ass\Ass\obj\Debug\Ass.BangKhachHang.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.MenuBang.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.Properties.Resources.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.csproj.GenerateResource.Cache
+F:\Code\Ass\Ass\obj\Debug\Ass.exe
+F:\Code\Ass\Ass\obj\Debug\Ass.pdb
+F:\Code\Ass\Ass\obj\Debug\Ass.ItemBangKhachHang.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.BangLoaiSanPham.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.ItemLoaiSanPham.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.BangSanPham.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.ItemSanPham.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.BangHoaDon.resources
+F:\Code\Ass\Ass\obj\Debug\Ass.IteamHoaDon.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\Ass.exe.config
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.exe
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.pdb
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\Ass.exe
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\Ass.pdb
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\mscorlib.dll
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\System.Net.Http.dll
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\System.Net.Http.xml
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\normidna.nlp
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\normnfc.nlp
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\normnfd.nlp
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\normnfkc.nlp
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\bin\Debug\normnfkd.nlp
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.csprojResolveAssemblyReference.cache
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.BangHoaDon.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.BangKhachHang.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.BangLoaiSanPham.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.BangSanPham.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.IteamHoaDon.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.ItemBangKhachHang.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.ItemLoaiSanPham.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.ItemSanPham.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.MenuBang.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.Properties.Resources.resources
+E:\Tài liệu học tập\Dien toan dam may\Nhom3_INF205_tuantxph03270_Assignment_hoanthien\AssMay\Ass\Ass\obj\Debug\Ass.csproj.GenerateResource.Cache
